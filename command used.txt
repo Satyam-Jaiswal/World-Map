@@ -1,0 +1,14 @@
+touch .gitignore  //to create .gtiignore file
+
+git init  //to initalise git in the folder
+
+git add .  //to app all the files in git
+
+git commit -m "initial commint (shows initial commit)" 
+
+		git ststus //to check the ststus of git
+
+git remote add orgin url(url of the progect alloted by github)  //to provide directory
+
+git pust origin master  //push requst
+
